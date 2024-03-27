@@ -2,9 +2,5 @@
 
 Automated conveyor on a Siemens controller and Weintek HMI.
 
-
-
-
-
-https://github.com/safroalex/A2-Automated-Conveyor/assets/105920089/d042cf00-8197-468d-9708-968d795a8929
+https://github.com/safroalex/A2-Automated-Conveyor/assets/105920089/37607721-e8fd-4a51-8752-b594eb19b236
 
